@@ -6,7 +6,8 @@ Example of how to deal with secrets in local development environment
 
 ## Pros
 
-*   Prevents accidental checkin to Github 
+*  Prevents accidental checkin to Github 
+*  "Perfect doesn't become enemy of good enough." 
 
 ## Gotchas
 
