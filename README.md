@@ -18,3 +18,8 @@ Example of how to deal with secrets in local development environment
 ## Other Solutions
 
 * More [complex secrets manager](https://aws.amazon.com/secrets-manager/)
+
+## References
+
+Watch on Pragmatic AI Labs Youtube: https://lnkd.in/eihzmRhz
+Watch on O'Reilly Media: https://lnkd.in/eQ2YCjq
