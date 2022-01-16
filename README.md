@@ -11,6 +11,7 @@ Example of how to deal with secrets in local development environment
 
 ## Gotchas
 
+*  Most likely need to know a bit of `vim`
 *  Must never checkin `~/.bashrc`
 *  Project may need more complex solution in the future
 
